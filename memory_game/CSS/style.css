@@ -1,3 +1,8 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
 body{
 	text-align: center;
 	font-family: "Raleway", sans-serif;
@@ -86,6 +91,7 @@ img{
     color: white;
     box-shadow: 1px 1px 1px grey;
     margin: 50px auto;
+
 }
 
 .social{
