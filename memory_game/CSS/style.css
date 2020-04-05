@@ -77,6 +77,17 @@ img{
 	margin:40px 8px;
 }
 
+#reset{
+	width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 125%;
+    background: #F15B31;
+    color: white;
+    box-shadow: 1px 1px 1px grey;
+    margin: 50px auto;
+}
+
 .social{
 	margin:20px;
 
